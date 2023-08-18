@@ -1,4 +1,4 @@
-Hi, I'm Daniel Arias 👋  
+∯ Hi, I'm Daniel Arias 👋  
 
 I'm currently a college student in love with web programming. I have taken several courses on my own and I'm currently working on personal projects, in order to digitize current education in universitites and schools.  
 
