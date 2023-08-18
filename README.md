@@ -1,6 +1,6 @@
 Hi, I'm Daniel Arias 👋  
 
-I'm currently a college student in love with web programming. I have taken several courses on y own and I'm currently working on personal projects, in order to digitize current education in universitites and schools.  
+I'm currently a college student in love with web programming. I have taken several courses on my own and I'm currently working on personal projects, in order to digitize current education in universitites and schools.  
 
 Amongst my hobbies, I love jogging, playing sports, reading, cooking and collecting minerals and bonsais. I also love everything related to mathematics and physics. I'm a person with a great desire to continue improving myself little by little every day!!!
 
