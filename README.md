@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi, I'm Daniel Arias 👋  
 
-<!--
-**Danie1Arias/Danie1Arias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a college student in love with web programming. I have taken several courses on y own and I'm currently working on personal projects, in order to digitize current education in universitites and schools.  
 
-Here are some ideas to get you started:
+Amongst my hobbies, I love jogging, playing sports, reading, cooking and collecting minerals and bonsais. I also love everything related to mathematics and physics. I'm a person with a great desire to continue improving myself little by little every day!!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience 👨‍💻
+### ⇨ Frontend Web Developer
+> Viajes para ti S.L. | April 2023 - Present
+
+### ⇨ IT Support Specialist
+> Freshly Cosmetics | July 2022 - December 2022
+
+## Education 🎓
+### ⇨ Telecommunications Systems and Services Engineering (Telematics)
+> Universitat Rovira i Virgili (2018 - 2024)
+
+### ⇨ Minor in Social Entrepreneuship and Sustainable Development Goals
+> Universitat Rovira i Virgili (2021 - 2023)
