@@ -12,6 +12,9 @@ I love everything related to mathematics and physics. I'm a person with a great 
 > Freshly Cosmetics | July 2022 - December 2022
 
 ## Education 🎓
+### ⇨ Master's Degree in Computer Security Engineering and Artificial Intelligence
+> Universitat Rovira i Virgili (2024 - 2025)
+
 ### ⇨ Telecommunications Systems and Services Engineering (Telematics)
 > Universitat Rovira i Virgili (2018 - 2024)
 
